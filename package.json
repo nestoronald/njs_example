@@ -1,0 +1,11 @@
+{
+  "name": "Node Example",
+  "version": "0.1.0",
+  "author": "Rona@ld",
+  "description": "Primer ejemplo en Nodejs",
+  "dependencies" : {
+    "jade" :  "*",
+    "consolidate" :  "*"
+
+  }
+}
